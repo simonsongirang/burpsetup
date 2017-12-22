@@ -1,4 +1,4 @@
-# About
+# Info
 
 This is my personal Burpsuite configuration.
 Contains:
